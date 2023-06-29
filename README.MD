@@ -1,0 +1,2 @@
+Olá, pessoal. Segue um arquivo em JavaScript, Contendo 3 exercícios em POO (Programação Orientada a Objetos)!
+Acredito que seja importante ter esta parte de conhecimento para ser um bom programador, independente da área.
